@@ -16,17 +16,15 @@ J4 - goldpin 2,54mm
 U1 - HLK-PM01 , TSP-05  (5V DC) 
 U2 - MCP1825T-3302E/DC 
 U3 - ESP-12S  
-J1,J2,J5 - 3pin board connector with 2.0 mm raster (example - https://www.antenk.com/2-0mm-wire-to-board-connectors/57147398.html)
-J6 - 4pin board connector with 2.0 mm raster (example - https://www.antenk.com/2-0mm-wire-to-board-connectors/57147398.html)
+J1,J2,J5 - 3pin board connector with 2.0 mm raster (example - https://www.antenk.com/2-0mm-wire-to-board-connectors/57147398.html)  
+J6 - 4pin board connector with 2.0 mm raster (example - https://www.antenk.com/2-0mm-wire-to-board-connectors/57147398.html)  
 RV1 - Varistor 07D431K  
 SW1 - microswitch 3x6x2.5mm  
-
-
 K1,K2 - SONGLE SRD-05VDC-SL-C - 5V - 230VAC 10A
  
  
  
-To enter programming mode short J4 with jumper and then reset(SW1 switch) board. LED diode ilustrate relays state
+To enter **programming** mode short J4 with jumper and then reset(SW1 switch) board. LED diode ilustrate relays state
 
 You can:
  - connect two switches/buttons to control Relays or any other purpose supported by used firmware
