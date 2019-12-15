@@ -38,5 +38,9 @@ You should:
 - remember to connect in proper way Line and Neutral wire to J3
 - **Warning!  on board is high voltage . Remember to off power during instalation**
 
+ ![alt text](https://github.com/jarcikw/Puszka-v6.1/blob/master/Puszka_v6.1_1.PNG)
+ ![alt text](https://github.com/jarcikw/Puszka-v6.1/blob/master/Puszka_v6.1_2.PNG)
+ ![alt text](https://github.com/jarcikw/Puszka-v6.1/blob/master/Puszka_v6.1_3.PNG)
 
- ![alt text](https://github.com/jarcikw/Puszka-v6.1/blob/master/Puszka_v6.1.pdf)
+Schematic: https://github.com/jarcikw/Puszka-v6.1/blob/master/PRD_V6.1.zip
+Production files
