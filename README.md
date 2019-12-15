@@ -12,7 +12,7 @@ D3,D4 - LED SMD 0603  (Use any Color , only check value for R14,R15)
 F1,F2 - Fuse 2410 (1A,2A depending on load ) (https://www.digikey.com/en/product-highlight/t/te-connectivity/2410-smt-fuses)  
 Q1,Q2 - BC817 SMD  SOT-23  
 J2,J7 - ARK2  
-J4 - goldpin 2,54mm
+J4 - goldpin 2,54mm  
 U1 - HLK-PM01 , TSP-05  (5V DC) 
 U2 - MCP1825T-3302E/DC 
 U3 - ESP-12S  
