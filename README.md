@@ -2,10 +2,10 @@
 Wall module based on ESP8266 12S  
 **Dimensions 46mm x 46mm x 22mm**  
 
-R1,R3,R4,R5,R6,R7,R9,R12,R13 - 4,7K SMD 0603 
-R2,R8,R10,R11 - 10K SMD 0603 
+R1,R3,R4,R5,R6,R7,R9,R12,R13 - 4,7K SMD 0603  
+R2,R8,R10,R11 - 10K SMD 0603  
 R14,R15 - 360R/470 SMD 0603 (Depending on LED Color)  
-C1,C2,C3,C5,C6 - 100nF/50V SMD 0603  
+C1,C2,C3,C5,C6 - 100nF/50V SMD 0603    
 C4,C7 - 100uf/6V - TANTAL 3216-18  
 D1,D2 - LL4148 SMD  
 D3,D4 - LED SMD 0603  (Use any Color , only check value for R14,R15)  
