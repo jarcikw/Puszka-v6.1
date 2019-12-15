@@ -1,5 +1,5 @@
-# Puszka-v5
-wall module based on ESP8266 12S, SSR  
+# Puszka-v6.1
+Wall module based on ESP8266 12S
 **Dimensions 46mm x 46mm x 22mm**  
 
 R1,R3,R4,R5,R6,R7,R9,R12,R13 - 4,7K SMD 0603 
@@ -26,3 +26,13 @@ K1,K2 - SONGLE SRD-05VDC-SL-C - 5V - 230VAC 10A
  
  
  
+To enter programming mode short J4 with jumper and then reset(SW1 switch) board. LED diode ilustrate relays state
+
+You can:
+ - connect two switches/buttons to control Relays or any other purpose supported by used firmware
+ - conenct DS18B20 sensor
+ - connect any I2C device supported firmware
+ - connect MODBUS Power meter with Tasmota
+ 
+You should:
+- solder wires where 230VAC is used (removed soldermask) wit higher current
