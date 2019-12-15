@@ -37,3 +37,6 @@ You should:
 - solder wires where 230VAC is used (removed soldermask) wit higher current
 - remember to connect in proper way Line and Neutral wire to J3
 - **Warning!  on board is high voltage . Remember to off power during instalation**
+
+
+ ![alt text](https://github.com/jarcikw/Puszka-v6.1/blob/master/Puszka_v6.1.pdf)
