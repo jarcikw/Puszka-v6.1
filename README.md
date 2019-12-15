@@ -42,5 +42,5 @@ You should:
  ![alt text](https://github.com/jarcikw/Puszka-v6.1/blob/master/Puszka_v6.1_2.PNG)
  ![alt text](https://github.com/jarcikw/Puszka-v6.1/blob/master/Puszka_v6.1_3.PNG)
 
-Schematic: https://github.com/jarcikw/Puszka-v6.1/blob/master/PRD_V6.1.zip
-Production files
+Schematic: https://github.com/jarcikw/Puszka-v6.1/blob/master/Puszka_v6.1.pdf
+Production files: https://github.com/jarcikw/Puszka-v6.1/blob/master/PRD_V6.1.zip  
