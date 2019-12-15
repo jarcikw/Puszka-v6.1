@@ -24,7 +24,8 @@ K1,K2 - SONGLE SRD-05VDC-SL-C - 5V - 230VAC 10A
  
  
  
-To enter **programming** mode short J4 with jumper and then reset(SW1 switch) board. LED diode ilustrate relays state
+To enter **programming** mode short J4 with jumper and then reset(SW1 switch) board.  Then you're able to flash ESP  
+LED diode ilustrate relays state.  
 
 You can:
  - connect two switches/buttons to control Relays or any other purpose supported by used firmware
