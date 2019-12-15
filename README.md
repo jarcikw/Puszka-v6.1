@@ -34,3 +34,5 @@ You can:
  
 You should:
 - solder wires where 230VAC is used (removed soldermask) wit higher current
+- remember to connect in proper way Line and Neutral wire to J3
+- **Warning!  on board is high voltage . Remember to off power during instalation**
