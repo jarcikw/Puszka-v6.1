@@ -29,12 +29,12 @@ LED diode ilustrate relays state.
 
 You can:
  - connect two switches/buttons to control Relays or any other purpose supported by used firmware
- - conenct DS18B20 sensor
- - connect any I2C device supported firmware
+ - connect DS18B20 sensor
+ - connect any I2C device supported by firmware
  - connect MODBUS Power meter with Tasmota
  
 You should:
-- solder wires where 230VAC is used (removed soldermask) wit higher current
+- solder wires where 230VAC is used (removed soldermask) with higher current
 - remember to connect in proper way Line and Neutral wire to J3
 - **Warning!  on board is high voltage . Remember to off power during instalation**
 
